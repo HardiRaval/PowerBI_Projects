@@ -23,3 +23,17 @@ Employee Metrics: Breakdown of headcount, diversity ratios, and department-wise 
 Retention Analysis: Insights into attrition rates, reasons for employee exits, and tenure analysis.
 Performance Tracking: Metrics on employee performance and productivity across departments.
 Interactive Visualizations: Dynamic slicers for analyzing data across different dimensions.
+
+
+
+
+Project Title: Sales Performance Dashboard
+Tools Used: Power BI, Excel
+Description:
+
+Developed an interactive sales dashboard to track and analyze sales, profit, and discounts across different regions and product categories.
+Utilized data visualization techniques to identify monthly sales trends, top-performing regions, and the impact of discounting strategies on profitability.
+Enabled key stakeholders to make data-driven decisions by presenting insights on $118M in total sales, $16.89M in profit, and 700 products.
+Performed KPI tracking for sales performance, profit margins, and unit sales by month and region.
+
+
